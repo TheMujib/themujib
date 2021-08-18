@@ -4,8 +4,8 @@
 
 <ul>
 <li align="center">- 👋 Hi </li>
-<li>- 😉 I’m @TheMujib aka Mujib Sayyad </li>
-<li>- 👀 I’m Interested In All New Technical Stuff </li>
+<li align="center">- 😉 I’m @TheMujib aka Mujib Sayyad </li>
+<li align="center">- 👀 I’m Interested In All New Technical Stuff </li>
 <li>- 🌱 I’m Currently Learning Web Development </li>
 <li>- 💞️ I’m Looking To Collaborate On 🤔 </li>
 <li>- ⚡ Fun fact: I'll Tell U After Finding 😅 </li>
