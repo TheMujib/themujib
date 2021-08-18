@@ -29,7 +29,10 @@
 
 ![Mujib's GitHub stats](https://github-readme-stats.vercel.app/api?username=themujib&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themujib)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themujib)
+
+![Mujib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themujib)
+
 
 
 ##
