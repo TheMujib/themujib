@@ -2,10 +2,6 @@
 
 > <h1 align="center">W e l c o m e 😎</h1>
 
-<img align="right" height="200px" width="300px" alt="GIF" src="https://cdn.dribbble.com/users/219147/screenshots/1051482/anti_dribbble.gif" />
-
-
-
 
 - 👋 Hi
 - 😉 I’m @TheMujib aka Mujib Sayyad.
