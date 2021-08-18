@@ -20,8 +20,8 @@
 
 <!-- https://cdn.dribbble.com/users/209133/screenshots/741414/dribble_gif.gif -->
 
-<table >
-	<tr align="center">
+<table align="center">
+	<tr>
 		<td>
 			<img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="60"/>
 		</td>
@@ -39,11 +39,11 @@
 		</td>
 	</tr>
 	<tr align="center">
-		<td>TypeScript</td>
-		<td>React</td>
-		<td>Node.js</td>
-		<td>Next.js</td>
-		<td>Express.js</td>
+		<td>HTML</td>
+		<td>CSS</td>
+		<td>SASS</td>
+		<td>BOOTSTRAP</td>
+		<td>JAVASCRIPT</td>
 	</tr>
 </table>
 
