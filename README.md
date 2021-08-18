@@ -13,7 +13,7 @@
 
 ##
 
-> <h1 align="center">Languages I Know 😃</h1>
+<h1 align="center">Languages I Know 😃</h1>
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /></p>
 
 
