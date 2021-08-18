@@ -82,16 +82,14 @@
 
 ## 
 
-<table align="center">
 
-<tr>
 <p align="middle">
-<td> <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a> </td>
-<td> <a href="https://twitter.com/mujibsayyad97" ><img src="https://img.shields.io/twitter/follow/mujibsayyad97?style=social" /> </a> </td>
-<td> <a href="https://youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img src="https://img.shields.io/youtube/likes/_Efg94sbNfw?style=social&withDislikes" /> </a> </td>
-<td> <a href="https://github.com/TheMujib" ><img src="https://img.shields.io/github/stars/TheMujib?style=social" /> </a> </td> </p>
-</tr>
-</table>
+<a href="https://discord.gg/2pfrQSBtAZ"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
+<a href="https://twitter.com/mujibsayyad97" ><img src="https://img.shields.io/twitter/follow/mujibsayyad97?style=social" /> </a>
+<a href="https://youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img src="https://img.shields.io/youtube/likes/_Efg94sbNfw?style=social&withDislikes" /> </a>
+<a href="https://github.com/TheMujib" ><img src="https://img.shields.io/github/stars/TheMujib?style=social" /> </a> 
+</p>
+
 
 ##
 
