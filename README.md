@@ -30,13 +30,13 @@
 
 ##
 
-> <h1 align="center">Other Stuff 😀</h1>
+<h1 align="center">Other Stuff 😀</h1>
 
 <p align="middle"><img height="50" src="https://img.icons8.com/plasticine/50/000000/adobe-photoshop.png"/> <img height="50" src="https://img.icons8.com/plasticine/100/000000/adobe-premiere-pro.png"/> <img height="50" src="https://img.icons8.com/plasticine/100/000000/adobe-illustrator.png"/>
 
 ##
 
-> <h1 align="center">How To Reach Me 😁</h1>
+<h1 align="center">How To Reach Me 😁</h1>
 
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
 
