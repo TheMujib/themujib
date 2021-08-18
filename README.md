@@ -13,12 +13,41 @@
 
 ##
 
-<h1 align="center">Languages I Know 😃</h1>
+<h1 align="center">I Know 😃</h1>
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /></p>
 
 
 
 <!-- https://cdn.dribbble.com/users/209133/screenshots/741414/dribble_gif.gif -->
+
+<table >
+	<tr align="center">
+		<td>
+			<img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="60"/>
+		</td>
+		<td >
+			<img src="https://img.icons8.com/dusk/50/000000/css3.png" width="60"/>
+		</td>
+		<td >
+			<img src="https://img.icons8.com/color/50/000000/sass.png" width="60"/>
+		</td>
+		<td >
+			<img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="60"/>
+		</td>
+		<td >
+			<img src="https://img.icons8.com/dusk/50/000000/javascript.png" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>TypeScript</td>
+		<td>React</td>
+		<td>Node.js</td>
+		<td>Next.js</td>
+		<td>Express.js</td>
+		<td>Bash</td>
+		<td>Framer Motion</td>
+	</tr>
+</table>
 
 <p align="middle"><img height="50" src="https://img.icons8.com/dusk/64/000000/html-5.png" /> <img height="50" src="https://img.icons8.com/dusk/50/000000/css3.png" /> <img height="50"  src="https://img.icons8.com/color/50/000000/sass.png" /> <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/dusk/50/000000/javascript.png" /> </p>
 
