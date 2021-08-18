@@ -54,6 +54,7 @@
 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/TheMujib) -->
+![](https://komarev.com/ghpvc/?username=themujib&style=flat-square&color=ff69b4)
 
 <!---
 TheMujib/TheMujib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
