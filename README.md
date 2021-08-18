@@ -20,7 +20,7 @@
 
 <!-- https://cdn.dribbble.com/users/209133/screenshots/741414/dribble_gif.gif -->
 
-<p align="middle"><img height="50" src="https://img.icons8.com/dusk/64/000000/html-5.png" /> <img height="50" src="https://img.icons8.com/dusk/50/000000/css3.png" /> <img height="50"  src="https://img.icons8.com/color/50/000000/sass.png" /> <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/dusk/50/000000/javascript.png" /> <img height="50" src="https://img.icons8.com/nolan/50/react-native.png" /> </p>
+<p align="middle"><img height="50" src="https://img.icons8.com/dusk/64/000000/html-5.png" /> <img height="50" src="https://img.icons8.com/dusk/50/000000/css3.png" /> <img height="50"  src="https://img.icons8.com/color/50/000000/sass.png" /> <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/dusk/50/000000/javascript.png" /> </p>
 
 ##
 
