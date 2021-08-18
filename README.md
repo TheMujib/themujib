@@ -31,10 +31,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themujib)
 
-![Mujib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themujib)
-
-
-
 ##
 
 > <h1 align="center">Other Stuff 😀</h1>
