@@ -26,7 +26,7 @@
 
 <ul align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themujib&show_icons=true&locale=en&layout=compact")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themujib&show_icons=true&theme=radical)
 
 ![Mujib's GitHub stats](https://github-readme-stats.vercel.app/api?username=themujib&show_icons=true&theme=radical)
 
