@@ -27,7 +27,7 @@
 
 ##
 
-[![Mjjb's GitHub stats](https://github-readme-stats.vercel.app/api?username=themujib)]
+[![Mjjb's GitHub stats](https://github-readme-stats.vercel.app/api?username=themujib&show_icons=true&theme=radical)]
 
 
 ##
