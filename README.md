@@ -83,7 +83,7 @@
 ## 
 
 
-<p align="middle">
+<p align="center">
 <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/mujibsayyad97" ><img src="https://img.shields.io/twitter/follow/mujibsayyad97?style=social" /> </a>
 <a href="https://youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img src="https://img.shields.io/youtube/likes/_Efg94sbNfw?style=social&withDislikes" /> </a>
@@ -95,8 +95,9 @@
 
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
 
-
-<!-- ![Profile views](https://gpvc.arturio.dev/TheMujib) -->
+<p align="center">
+![Profile views](https://gpvc.arturio.dev/TheMujib)
+</p>
 <!-- ![](https://komarev.com/ghpvc/?username=themujib&style=flat-square&color=ff69b4) -->
 
 <!---
