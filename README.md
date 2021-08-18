@@ -69,7 +69,7 @@
 
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
 
-<table align="center">
+<table align="middle">
 <tr>
 <td> <p align="middle"><a href="https://discord.gg/2pfrQSBtAZ" ><img width="60" src="https://img.icons8.com/doodle/50/000000/discord-logo.png"/></a> </td>
 <td> <a href="https://www.facebook.com/mujibedits" ><img width="60" src="https://img.icons8.com/dusk/50/000000/facebook-new--v2.png" /> </a> </td>
