@@ -44,8 +44,6 @@
 		<td>Node.js</td>
 		<td>Next.js</td>
 		<td>Express.js</td>
-		<td>Bash</td>
-		<td>Framer Motion</td>
 	</tr>
 </table>
 
