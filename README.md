@@ -69,7 +69,7 @@
 
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
 
-<p align="middle"><a href="https://discord.gg/2pfrQSBtAZ" ><img height="50" src="https://img.icons8.com/doodle/50/000000/discord-logo.png"/></a> <a href="https://www.facebook.com/mujibedits" ><img height="50" src="https://img.icons8.com/dusk/50/000000/facebook-new--v2.png" /> </a> <a href="https://www.linkedin.com/in/mujibsayyad97" ><img height="50" src="https://img.icons8.com/dusk/50/000000/linkedin.png"/></a> <a href="https://www.instagram.com/mujibsayyad97" ><img height="50" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/></a> <a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img height="50" src="https://img.icons8.com/plasticine/50/000000/youtube-squared.png"/></a> </p>
+<p align="middle"><a href="https://discord.gg/2pfrQSBtAZ" ><img width="60" src="https://img.icons8.com/doodle/50/000000/discord-logo.png"/></a> <a href="https://www.facebook.com/mujibedits" ><img width="60" src="https://img.icons8.com/dusk/50/000000/facebook-new--v2.png" /> </a> <a href="https://www.linkedin.com/in/mujibsayyad97" ><img width="60" src="https://img.icons8.com/dusk/50/000000/linkedin.png"/></a> <a href="https://www.instagram.com/mujibsayyad97" ><img width="60" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/></a> <a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img width="60" src="https://img.icons8.com/plasticine/50/000000/youtube-squared.png"/></a> </p>
 
 ## 
 
