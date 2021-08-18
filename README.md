@@ -2,8 +2,8 @@
 
 > <h1 align="center">W e l c o m e 😎</h1>
 
-<ul align="center">
-<li>- 👋 Hi </li>
+<ul>
+<li align="center">- 👋 Hi </li>
 <li>- 😉 I’m @TheMujib aka Mujib Sayyad </li>
 <li>- 👀 I’m Interested In All New Technical Stuff </li>
 <li>- 🌱 I’m Currently Learning Web Development </li>
