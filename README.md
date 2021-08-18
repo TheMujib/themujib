@@ -95,9 +95,8 @@
 
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
 
-<p align="center">
+
 ![Profile views](https://gpvc.arturio.dev/TheMujib)
-</p>
 <!-- ![](https://komarev.com/ghpvc/?username=themujib&style=flat-square&color=ff69b4) -->
 
 <!---
