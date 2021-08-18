@@ -3,12 +3,12 @@
 > <h1 align="center">W e l c o m e 😎</h1>
 
 <ul align="center">
-- 👋 Hi
-- 😉 I’m @TheMujib aka Mujib Sayyad.
-- 👀 I’m Interested In All New Technical Stuff.
-- 🌱 I’m Currently Learning Web Development
-- 💞️ I’m Looking To Collaborate On 🤔 
-- ⚡ Fun fact: I'll Tell U After Finding 😅
+<li>- 👋 Hi </li>
+<li>- 😉 I’m @TheMujib aka Mujib Sayyad </li>
+<li>- 👀 I’m Interested In All New Technical Stuff </li>
+<li>- 🌱 I’m Currently Learning Web Development </li>
+<li>- 💞️ I’m Looking To Collaborate On 🤔 </li>
+<li>- ⚡ Fun fact: I'll Tell U After Finding 😅 </li>
 </ul>
 
 ##
