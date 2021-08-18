@@ -38,7 +38,7 @@
 
 ##
 
-<h1 align="center">Find Me Here 😁</h1>
+<h1 align="center">Connect With Me 😁</h1>
 
 <p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
 
