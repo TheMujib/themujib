@@ -2,7 +2,6 @@
 
 <h1 align="center">W e l c o m e 😎</h1>
 
-***
 
 - 👋 Hi </li>
 - 😉 I’m @TheMujib aka Mujib Sayyad 
