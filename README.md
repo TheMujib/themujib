@@ -4,7 +4,7 @@
 
 <div align="center">
 	<h3>👋 Hi </h3>
-<h3>😉 I’m @TheMujib aka Mujib Sayyad </h3>
+	<h3>😉 I’m @TheMujib aka <a href="https://www.linkedin.com/in/mujibsayyad97">Mujib Sayyad</a> </h3>
 </div>
 
 
