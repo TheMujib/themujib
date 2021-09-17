@@ -3,14 +3,7 @@
 <h1 align="center">W e l c o m e 😎</h1>
 
 
-- 👋 Hi </li>
-- 😉 I’m @TheMujib aka Mujib Sayyad 
-- 👀 I’m Interested In All New Technical Stuff 
-- 🌱 I’m Currently Learning Web Development 
-- 💞️ I’m Looking To Collaborate On 🤔 
-- ⚡ Fun fact: I'll Tell U After Finding 😅
-
-
+- 👋 Hi | 😉 I’m @TheMujib aka Mujib Sayyad 
 ***
 
 
