@@ -3,9 +3,11 @@
 <h1 align="center">W e l c o m e 😎</h1>
 
 <div align="center">
-	<h6>👋 Hi </h6>
-<h6>😉 I’m @TheMujib aka Mujib Sayyad </h6>
+	<h3>👋 Hi </h3>
+<h3>😉 I’m @TheMujib aka Mujib Sayyad </h3>
 </div>
+
+
 ***
 
 
