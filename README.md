@@ -13,7 +13,7 @@
 
 <div align="center">
 	<h1> 🍿 P O R T F O L I O 🍿</h1>
-	<h3> <a href="https://www.mujib.tech">🌐 www.mujib.tech </a> </h2>
+	<h3> <a href="https://www.mujib.tech">🌐 www.mujib.tech </a> </h3>
 </div>
 
 
@@ -22,8 +22,8 @@
 
 <ul align="center">
 
-<li> <img width="60" src="https://img.icons8.com/color/48/000000/discord--v2.png"/> </li>
-<li> <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </li>
+<h3> <img width="60" src="https://img.icons8.com/color/48/000000/discord--v2.png"/> </h3>
+<h3> <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </h3>
 
 </ul>
 
