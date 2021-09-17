@@ -32,7 +32,7 @@
 <table align="center">
 	<tr>
 		<td>
-			<img src="https://img.icons8.com/color-glass/48/000000/html.png" width="60"/>
+			<img src="https://img.icons8.com/color/47/000000/html-5.png" width="60"/>
 		</td>
 		<td >
 			<img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-css-web-seo-prettycons-flat-prettycons.png" width="60"/>
