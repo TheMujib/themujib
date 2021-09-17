@@ -22,8 +22,8 @@
 
 <ul align="center">
 
-<img width="60" src="https://img.icons8.com/color/48/000000/discord--v2.png"/>
-<a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a>
+<li> <img width="60" src="https://img.icons8.com/color/48/000000/discord--v2.png"/> </li>
+<li> <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </li>
 
 </ul>
 
