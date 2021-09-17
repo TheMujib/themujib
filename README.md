@@ -19,7 +19,7 @@
 </div>
 
 
-##
+***
 
 
 <h1 align="center">I Know 😃</h1>
@@ -58,7 +58,8 @@
 
 <!-- <p align="middle"><img height="50" src="https://img.icons8.com/dusk/64/000000/html-5.png" /> <img height="50" src="https://img.icons8.com/dusk/50/000000/css3.png" /> <img height="50"  src="https://img.icons8.com/color/50/000000/sass.png" /> <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/dusk/50/000000/javascript.png" /> </p>
  -->
-##
+
+***
 
 <ul align="center">
 
@@ -72,7 +73,7 @@
 
 <p align="middle"><img height="50" src="https://img.icons8.com/plasticine/50/000000/adobe-photoshop.png"/> <img height="50" src="https://img.icons8.com/plasticine/100/000000/adobe-premiere-pro.png"/> <img height="50" src="https://img.icons8.com/plasticine/100/000000/adobe-illustrator.png"/> -->
 
-##
+***
 
 <h1 align="center">Connect With Me 😁</h1>
 
@@ -89,7 +90,7 @@
 </table>
 
 
-## 
+***
 
 
 <p align="center">
@@ -100,7 +101,7 @@
 </p>
 
 
-##
+***
 
 
 
@@ -108,7 +109,7 @@
 
 
 
-##
+***
 
 <ul align="center">
 
@@ -116,7 +117,7 @@
 
 </ul>
 
-##
+***
 <!-- ![](https://komarev.com/ghpvc/?username=themujib&style=flat-square&color=ff69b4) -->
 
 <!---
