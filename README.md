@@ -2,6 +2,7 @@
 
 <h1 align="center">W e l c o m e 😎</h1>
 
+***
 
 - 👋 Hi </li>
 - 😉 I’m @TheMujib aka Mujib Sayyad 
@@ -94,6 +95,14 @@
 ***
 
 
+
+<p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
+
+
+
+***
+
+
 <p align="center">
 <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/mujibsayyad97" ><img src="https://img.shields.io/twitter/follow/mujibsayyad97?style=social" /> </a>
@@ -104,13 +113,6 @@
 
 ***
 
-
-
-<p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
-
-
-
-***
 
 <ul align="center">
 
