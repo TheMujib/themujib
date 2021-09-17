@@ -32,10 +32,10 @@
 <table align="center">
 	<tr>
 		<td>
-			<img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="60"/>
+			<img src="https://img.icons8.com/color-glass/48/000000/html.png" width="60"/>
 		</td>
 		<td >
-			<img src="https://img.icons8.com/dusk/50/000000/css3.png" width="60"/>
+			<img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-css-web-seo-prettycons-lineal-color-prettycons.png" width="60"/>
 		</td>
 		<td >
 			<img src="https://img.icons8.com/color/50/000000/sass.png" width="60"/>
@@ -44,7 +44,7 @@
 			<img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="60"/>
 		</td>
 		<td >
-			<img src="https://img.icons8.com/dusk/50/000000/javascript.png" width="60"/>
+			<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
