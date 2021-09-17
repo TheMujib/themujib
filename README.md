@@ -10,15 +10,20 @@
 
 ***
 
-<div align="center">
+
+<p align="center">
 	<h1> 🍿 P O R T F O L I O </h1>
 	<h2> <a href="https://www.mujib.tech">🌐 www.mujib.tech </a> </h2>
-</div>
+</p>
+
 
 ***
+
+
 <div align="center">
 <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a>
 </div>
+
 
 
 ***
