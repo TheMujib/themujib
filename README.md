@@ -81,10 +81,10 @@
 
 <table align="center">
 <tr>
-<td> <a href="https://discord.gg/2pfrQSBtAZ" ><img width="60" src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png"/></a> </td>
-<td> <a href="https://www.facebook.com/mujibedits" ><img width="60" src="https://img.icons8.com/ios-filled/50/000000/facebook--v1.png" /> </a> </td>
-<td> <a href="https://www.linkedin.com/in/mujibsayyad97" ><img width="60" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a> </td>
-<td> <a href="https://www.instagram.com/mujibsayyad97" ><img width="60" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/></a> </td>
+<td> <a href="https://discord.gg/2pfrQSBtAZ" ><img width="60" src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a> </td>
+<td> <a href="https://www.facebook.com/mujibedits" ><img width="60" src="https://img.icons8.com/color/48/000000/facebook.png" /> </a> </td>
+<td> <a href="https://www.linkedin.com/in/mujibsayyad97" ><img width="60" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> </td>
+<td> <a href="https://www.instagram.com/mujibsayyad97" ><img width="60" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png"/></a> </td>
 <td> <a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img width="60" src="https://img.icons8.com/color/50/000000/youtube--v3.png"/></a> </td> 
 
 </tr>
