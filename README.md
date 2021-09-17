@@ -85,7 +85,7 @@
 <td> <a href="https://www.facebook.com/mujibedits" ><img width="60" src="https://img.icons8.com/ios-filled/50/000000/facebook--v1.png" /> </a> </td>
 <td> <a href="https://www.linkedin.com/in/mujibsayyad97" ><img width="60" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a> </td>
 <td> <a href="https://www.instagram.com/mujibsayyad97" ><img width="60" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/></a> </td>
-<td> <a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img width="60" src="https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-youtube-multimedia-prettycons-solid-prettycons.png"/></a> </td> 
+<td> <a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img width="60" src="https://img.icons8.com/external-prettycons-lineal-prettycons/49/000000/external-youtube-multimedia-prettycons-lineal-prettycons.png"/></a> </td> 
 </tr>
 </table>
 
