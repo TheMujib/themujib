@@ -3,8 +3,8 @@
 <h1 align="center">W e l c o m e 😎</h1>
 
 <div align="center">
-	<h1>👋 Hi </h1>
-<h1>😉 I’m @TheMujib aka Mujib Sayyad </h1>
+	<h6>👋 Hi </h6>
+<h6>😉 I’m @TheMujib aka Mujib Sayyad </h6>
 </div>
 ***
 
