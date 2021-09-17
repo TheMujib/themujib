@@ -12,7 +12,7 @@
 
 <div align="center">
 	<h3> 🍿 PORTFOLIO </h3>
-	<a href="https://www.mujib.tech">mujib.tech</a>
+	<h3> <a href="https://www.mujib.tech">mujib.tech</a> </h3>
 </div>
 
 ***
