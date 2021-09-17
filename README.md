@@ -13,9 +13,9 @@
 
 ##
 
-
+<div align="center">
 <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a>
-
+</div>
 ##
 
 
