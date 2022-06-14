@@ -36,9 +36,9 @@
 
 # Discord Server For Web Developers
 
-<p align="center">
+<div align="center">
 <h3> <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </h3>
-</p>
+</div>
 
 ##
 
