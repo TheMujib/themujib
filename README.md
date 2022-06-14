@@ -1,138 +1,68 @@
-<!--*TheMujib/TheMujib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## H I 
+<h3>I’m <a href="https://www.linkedin.com/in/mujibsayyad97">Mujib Sayyad 😉</a> </h3>
 
-<h1 align="center">😎 W E L C O M E 😎</h1>
+![Profile views](https://gpvc.arturio.dev/TheMujib)  <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
 
-<div align="center">
-	<h3>👋 Hi </h3>
-	<h3>😉 I’m <a href="https://www.linkedin.com/in/mujibsayyad97">MUJIB SAYYAD</a> </h3>
-</div>
+<a href="https://github.com/TheMujib" ><img src="https://img.shields.io/github/stars/mujibsayyad?style=social" /></a> <a href="https://youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img src="https://img.shields.io/youtube/likes/_Efg94sbNfw?style=social&withDislikes"/></a>
+###
 
+### P O R T F O L I O 
+### [mujib.vercel.app 🌐](https://mujib.vercel.app)
 
-***
+##
 
+# I Code In
 
-<div align="center">
-	<h1> 🍿 P O R T F O L I O 🍿</h1>
-	<h3> <a href="https://mujib.vercel.app">🌐 mujib.vercel.app </a> </h3>
-</div>
+### Frontend
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-***
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+### Other
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
 
-<ul align="center">
+##
 
-<h3> <img width="60" src="https://img.icons8.com/color/48/000000/discord--v2.png"/> </h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujibsayyad&show_icons=true&theme=radical)
+
+![Mujib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujibsayyad&show_icons=true&theme=radical)
+
+##
+
+# Discord Server For Web Developers
+
 <h3> <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </h3>
 
-</ul>
+##
 
 
+# Connect With Me
 
-***
+<p align="center"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
 
+<a href="https://discord.gg/2pfrQSBtAZ">
+  <img height="35" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:mujibsayyad97@gmail.com">
+  <img height="35" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a> 
+<a href="https://www.instagram.com/mujibsayyad97">
+  <img height="35" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/mujibsayyad97">
+  <img height="35" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/mujibsayyad97">
+  <img height="35" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA">
+  <img height="35" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
 
-<h1 align="center">I Know 😃</h1>
-<p align="center"><img height="300px" width="250px" alt="GIF" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /></p>
+#
 
+<p align="center"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
 
-
-<!-- https://cdn.dribbble.com/users/209133/screenshots/741414/dribble_gif.gif -->
-
-<table align="center">
-	<tr>
-		<td>
-			<img src="https://img.icons8.com/color/47/000000/html-5.png" width="60"/>
-		</td>
-		<td >
-			<img src="https://img.icons8.com/color/48/000000/css3.png" width="60"/>
-		</td>
-		<td >
-			<img src="https://img.icons8.com/color/50/000000/sass.png" width="60"/>
-		</td>
-		<td >
-			<img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="60"/>
-		</td>
-		<td >
-			<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="60"/>
-		</td>
-	</tr>
-	<tr align="center">
-		<td>HTML</td>
-		<td>CSS</td>
-		<td>SASS</td>
-		<td>BOOTSTRAP</td>
-		<td>JAVASCRIPT</td>
-	</tr>
-</table>
-
-<!-- <p align="middle"><img height="50" src="https://img.icons8.com/dusk/64/000000/html-5.png" /> <img height="50" src="https://img.icons8.com/dusk/50/000000/css3.png" /> <img height="50"  src="https://img.icons8.com/color/50/000000/sass.png" /> <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/dusk/50/000000/javascript.png" /> </p>
- -->
-
-***
-
-<ul align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themujib&show_icons=true&theme=radical)
-
-![Mujib's GitHub stats](https://github-readme-stats.vercel.app/api?username=themujib&show_icons=true&theme=radical)
-
-</ul>
-
-<!-- <h1 align="center">Other Stuff 😀</h1>
-
-<p align="middle"><img height="50" src="https://img.icons8.com/plasticine/50/000000/adobe-photoshop.png"/> <img height="50" src="https://img.icons8.com/plasticine/100/000000/adobe-premiere-pro.png"/> <img height="50" src="https://img.icons8.com/plasticine/100/000000/adobe-illustrator.png"/> -->
-
-***
-
-<h1 align="center">Connect With Me 😁</h1>
-
-<p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
-
-<table align="center">
-<tr>
-<td> <a href="https://discord.gg/2pfrQSBtAZ" ><img width="60" src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a> </td>
-<td> <a href="https://www.facebook.com/mujibedits" ><img width="60" src="https://img.icons8.com/color/48/000000/facebook.png" /> </a> </td>
-<td> <a href="https://www.linkedin.com/in/mujibsayyad97" ><img width="60" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> </td>
-<td> <a href="https://www.instagram.com/mujibsayyad97" ><img width="60" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png"/></a> </td>
-<td> <a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img width="60" src="https://img.icons8.com/color/50/000000/youtube--v3.png"/></a> </td> 
-
-</tr>
-</table>
-
-
-***
-
-
-
-<p align="center"><img height="300px" width="250px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
-
-
-
-***
-
-
-<p align="center">
-<a href="https://discord.gg/2pfrQSBtAZ"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/mujibsayyad97" ><img src="https://img.shields.io/twitter/follow/mujibsayyad97?style=social" /> </a>
-<a href="https://youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img src="https://img.shields.io/youtube/likes/_Efg94sbNfw?style=social&withDislikes" /> </a>
-<a href="https://github.com/TheMujib" ><img src="https://img.shields.io/github/stars/TheMujib?style=social" /> </a> 
-</p>
-
-
-***
-
-
-<ul align="center">
-
-![Profile views](https://gpvc.arturio.dev/TheMujib)
-
-</ul>
-
-***
-<!-- ![](https://komarev.com/ghpvc/?username=themujib&style=flat-square&color=ff69b4) -->
-
-<!---
-TheMujib/TheMujib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#
