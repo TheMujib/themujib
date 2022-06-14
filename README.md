@@ -28,8 +28,8 @@
 ##
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujibsayyad&show_icons=true&theme=radical" height=230 />
-<img src="https://github-readme-stats.vercel.app/api?username=mujibsayyad&show_icons=true&theme=radical" height=230 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujibsayyad&show_icons=true&theme=radical" height=210 />
+<img src="https://github-readme-stats.vercel.app/api?username=mujibsayyad&show_icons=true&theme=radical" height=210 />
 <p>
 
 ##
