@@ -45,6 +45,7 @@
 
 <p align="center"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
 
+<p align="center">
 <a href="https://discord.gg/2pfrQSBtAZ">
   <img height="35" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
@@ -63,6 +64,7 @@
 <a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA">
   <img height="35" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
+</p>
 
 #
 
