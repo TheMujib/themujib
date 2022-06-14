@@ -1,4 +1,4 @@
-## H I 
+### H I
 <h3>I’m <a href="https://www.linkedin.com/in/mujibsayyad97">Mujib Sayyad 😉</a> </h3>
 
 ![Profile views](https://gpvc.arturio.dev/TheMujib)  <a href="https://discord.gg/2pfrQSBtAZ"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
@@ -23,11 +23,14 @@
 ### Other
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
 
+<p align="center"><img height="300px" width="250px" alt="GIF" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /></p>
+
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujibsayyad&show_icons=true&theme=radical)
-
-![Mujib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujibsayyad&show_icons=true&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujibsayyad&show_icons=true&theme=radical" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=mujibsayyad&show_icons=true&theme=radical" height=160 />
+<p>
 
 ##
 
