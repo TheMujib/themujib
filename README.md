@@ -1,7 +1,7 @@
 ### H I
 <h3>I’m <a href="https://www.linkedin.com/in/mujibsayyad97">Mujib Sayyad 😉</a> </h3>
 
-![Profile views](https://gpvc.arturio.dev/TheMujib)  <a href="https://discord.gg/SWzbmaYsRw"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
+![Profile views](https://gpvc.arturio.dev/TheMujib)  <a href="https://discord.gg/metueyBQ9f"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
 
 <a href="https://github.com/TheMujib" ><img src="https://img.shields.io/github/stars/mujibsayyad?style=social" /></a> <a href="https://youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img src="https://img.shields.io/youtube/likes/_Efg94sbNfw?style=social&withDislikes"/></a>
 ###
@@ -37,7 +37,7 @@
 # Discord Server For Web Developers
 
 <div align="center">
-<h3> <a href="https://discord.gg/SWzbmaYsRw"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </h3>
+<h3> <a href="https://discord.gg/metueyBQ9f"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </h3>
 </div>
 
 ##
@@ -48,7 +48,7 @@
 <p align="center"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/04e4cf554d9fb84ec676a6233aad38f7/tenor.gif" /></p>
 
 <p align="center">
-<a href="https://discord.gg/SWzbmaYsRw">
+<a href="https://discord.gg/metueyBQ9f">
   <img height="35" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="mailto:mujibsayyad97@gmail.com">
