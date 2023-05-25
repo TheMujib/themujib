@@ -1,5 +1,5 @@
 ### H I
-<h3>I’m <a href="https://www.linkedin.com/in/mujibsayyad97">Mujib Sayyad 😉</a> </h3>
+<h3>I’m <a href="https://www.linkedin.com/in/mujibsayyad">Mujib Sayyad 😉</a> </h3>
 
 ![Profile views](https://gpvc.arturio.dev/TheMujib)  <a href="https://discord.gg/metueyBQ9f"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
 
@@ -7,7 +7,7 @@
 ###
 
 ### P O R T F O L I O 
-### [mujib.vercel.app 🌐](https://mujib.vercel.app)
+### [mujib.tech 🌐](https://mujib.tech)
 
 ##
 
