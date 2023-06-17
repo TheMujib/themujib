@@ -1,5 +1,4 @@
-### H I
-<h3>I’m <a href="https://www.linkedin.com/in/mujibsayyad">Mujib Sayyad 😉</a> </h3>
+<h2>Hi - I’m <a href="https://www.linkedin.com/in/mujibsayyad">Mujib Sayyad 😉</a></h2>
 
 ![](https://komarev.com/ghpvc/?username=mujibsayyad&style=flat-square&color=16e802)  <a href="https://discord.gg/metueyBQ9f"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
 
@@ -37,7 +36,8 @@
 # Discord Server For Web Developers
 
 <div align="center">
-<h3> <a href="https://discord.gg/metueyBQ9f"><img src="https://invidget.switchblade.xyz/2pfrQSBtAZ" /></a> </h3>
+  <img src="https://discordapp.com/api/guilds/686069011481362462/widget.png?style=banner2" alt="Discord Banner 2"/>
+  <h3> <a href="https://discord.gg/metueyBQ9f"><button>JOIN SERVER<button/></a> </h3>
 </div>
 
 ##
