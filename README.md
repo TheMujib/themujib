@@ -57,13 +57,13 @@
 <a href="https://www.instagram.com/mujibsayyad97">
   <img height="35" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/mujibsayyad97">
+<a href="https://www.linkedin.com/in/mujibsayyad">
   <img height="35" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/mujibsayyad97">
   <img height="35" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA">
+<a href="https://www.youtube.com/@mujibsayyad">
   <img height="35" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 </p>
