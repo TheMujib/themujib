@@ -1,7 +1,7 @@
 ### H I
 <h3>I’m <a href="https://www.linkedin.com/in/mujibsayyad">Mujib Sayyad 😉</a> </h3>
 
-![Profile views](https://gpvc.arturio.dev/TheMujib)  <a href="https://discord.gg/metueyBQ9f"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
+![](https://komarev.com/ghpvc/?username=mujibsayyad&style=flat-square&color=16e802)  <a href="https://discord.gg/metueyBQ9f"><img src="https://img.shields.io/discord/686069011481362462?style=flat-squaret&label=Join%20Community&color=3ce000" alt="Join Community Badge"/></a>
 
 <a href="https://github.com/TheMujib" ><img src="https://img.shields.io/github/stars/mujibsayyad?style=social" /></a> <a href="https://youtube.com/channel/UCXYVbSzyemN5sEG0kC49nwA" ><img src="https://img.shields.io/youtube/likes/_Efg94sbNfw?style=social&withDislikes"/></a>
 ###
